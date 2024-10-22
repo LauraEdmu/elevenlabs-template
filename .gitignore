@@ -1,3 +1,6 @@
 *.priv
+*.mp3
+*.wav
+*.webm
 *.log
 output/
